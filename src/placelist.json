@@ -1,0 +1,151 @@
+[
+{
+    "id":1,
+    "name":"Konya Arkeoloji Müzesi",
+    "img":"/img/arkeoloji.jpg",
+    "detail":"Eski çağlardan kalma yapıtların bulunduğu, 1962 yılında hizmete açılan, 20 Mart 1923 tarihinde Mustafa Kemal Atatürk tarafından ziyaret edilen Arkeoloji Müzesi; Konya ilinde yapılan çalışmalarda bulunmuş tüm Neolitik, Eski, tunç, demir, klasik, helenistik, Roma, Bizans devrine ait yapıtlara ev sahipliği yapmaktadır.",
+    "category":"tarihi"
+},
+{
+    "id":2,
+    "name":"Konya Etnografya Müzesi",
+    "img":"/img/etnografya.jpg",
+    "detail":"Kıyafetten tesbihe, mutfak kaplarından halılara, yazma eserlerden silahlara Konya yöresine has pek çok esere ev sahipliği yapan Konya Etnografya Müzesi, Alaaddin tepesinin güneyinde, Larende Caddesi üzerinde 1974 yılında hizmete açılmıştır.",
+    "category":"tarihi"
+},
+{
+    "id":3,
+    "name":"Atatürk Evi Müzesi",
+    "img":"/img/ataturk_evi.jpg",
+    "detail":"Atatürk Caddesi üzerinde, 1912 yılında kesme moloz taş ve tuğladan inşa edilmiş, önceleri Vali Konağı olarak kullanılmış olan Atatürk Evi Müzesi, 1928 yılında Konyalıların Atatürk'e şükranlarının bir ifadesi olarak Atatürk adına tescil edilmiştir.",
+    "category":"tarihi"
+},
+{
+    "id":4,
+    "name":"Konya Kapu Camii",
+    "img":"/img/kapu.jpg",
+    "detail":"İlk olarak 1658 yılında Mevlana'nın torunlarından Pir Hüseyin Çelebi tarafından yaptırılmış olan Kapu Camii, bir kez yenilenmiş,ardından Konya Çarşısı yangınında tamamen yanmış; yangın sonrasında iki yıllık bir süreçte Konya Kalesi'nden sökülen taşlarla bugünkü hali inşaa edimiştir.",
+    "category":"tarihi"
+},
+{
+    "id":5,
+    "name":"İplikçi Camii ve Medrese",
+    "img":"/img/iplikci.jpg",
+    "detail":"İlk olarak II. Kılıçaslan döneminde Vezir Şemseddin Altunba’nın yaptırdığı düşünülen İplikçi Camii, şehrin merkezinde Alaaddin Tepesi'nin doğusunda yer almaktadır. 12.  yzyıl sonlarında Mevlana Celaleddin Rumi tarafından burada ders vermesi nedeniyle çok önemli tarihi bir mekandır.",
+    "category":"tarihi"
+},
+{
+    "id":6,
+    "name":"Tavus Baba Camii ve Türbesi",
+    "img":"/img/tavusbaba.jpg",
+    "detail":"Meram Çayı'na hakim yemyeşil bir tepe üzerinde sade, küçük ve mütevazı bir türbe olan Tavus Baba Türbesi' nin ilk olarak hangi tarihte yapıldığı bilinmemektedir. Günümüze gelebilen bölümler göz önüne alındığında XIII. yüzyılda yapılmış olduğu düşünülmektedir.",
+    "category":"tarihi"
+},
+{
+    "id":7,
+    "name":"Sahip Ata Külliyesi",
+    "img":"/img/sahipata1.jpg",
+    "detail":"Selçuklu Veziri Sahip Ata tarafından 1259 - 1279 yılları arasında inşa edilen Sahip Ata kulliyesi, hamam, han, türbe ve camiden oluşmaktadır. Tarihi açıdan oldukça eski bir mekan olan Sahip Ata külliyesi, Larende Caddesi üzerinde yer alıyor.",
+    "category":"tarihi"
+},
+{
+    "id":8,
+    "name":"Sırçalı Medrese",
+    "img":"/img/sircali.jpg",
+    "detail":"Açık Avlulu Medrese tipinde inşa edilen, planı, taş işçiliği ve süsleme özellikleriyle Selçukluların en gösterişli yapılarından biri olan Sırçalı Medrese, 1242 yılında Bedreddin Muslih tarafından yaptırılmış, medrese mimarisinin abidevî bir örneğidir.",
+    "category":"tarihi"
+},
+{
+    "id":9,
+    "name":"Ateşbazı Veli Türbesi",
+    "img":"/img/atesbazi.jpg",
+    "detail":"1285 yılında Selçuklu devrinde, sekizgen gövdeli, piramidal külah ile kaplı, kesme taş ve tuğladan inşa edilmiş olan Ateşbazı Veli Türbesi; Meram merkezde gezilecek yerler arasındadır.",
+    "category":"tarihi"
+},
+{
+    "id":10,
+    "name":"Hoca Ahmet Fakih Camii ve Türbesi",
+    "img":"/img/ahmetfakih.jpg",
+    "detail":"Döneminin önemli din ve ilim adamı Fakih Ahmet’in gömüldüğü türbe ile caminin kimin tarafından yaptırıldığı meçhuldür. Geniş bir bahçenin ortasında bulunan Hoca Ahmed Fakih Cami, son derece gösterişli ve dikkat çekici olan bir avlu kapısına sahiptir. ",
+    "category":"tarihi"
+},
+{
+    "id":11,
+    "name":"Aziz Pavlus Katolik Kilisesi",
+    "img":"/img/azizpavlus.jpg",
+    "detail":"1910 yılında rahipler tarafından, Gotik stilde, kesme sille taşından yapılmış olan Aziz Pavlus Kilisesi Meram ilçesinde Alaaddin tepesinin gneydoğusunda yer alan tarihi bir Roma Katolik kilisesidir.",
+    "category":"tarihi"
+},
+{
+    "id":12,
+    "name":"Meram Bağları",
+    "img":"/img/meramb.jpg",
+    "detail":"Konya ilinin en popüler yerlerinden biri olan, her yıl yerli ve yabancı binlerce ziyaretçinin akın ettiği Meram Bağları, şehrin karmaşasından kaçarak kafa dinlemek ve doğa içerisinde vakit geçirmek isteyenler için mükemmel bir uğrak yeridir.",
+    "category":"mesire"
+},
+{
+    "id":13,
+    "name":"Dutlukır Millet Bahçesi",
+    "img":"/img/dutlu.jpg",
+    "detail":"Ziyaretçilerine  ateşli veya ateşsiz alanlarda piknik imkanı sunmasının yanısıra, yürüyüş ve spor alanları, restoran ve kafesi, çim kızağı ve parklarıyla Millet Bahçesi, Meram ilçesinin paha biçilemez doğasında yer alan muhteşem bir dinlenme ve eğlence mekanıdır.",
+    "category":"mesire"
+},
+{
+    "id":14,
+    "name":"Konya Kent Ormanı",
+    "img":"/img/kentormani.jpg",
+    "detail":"Konya-Isparta Yolu üzerinde 25. kilometrede, yaklaşık 5 milyon metrekarelik alanıyla kentin akciğerleri durumunda olan Kent Ormanı, Büyükşehir Belediyesi tarafından 2008 yılında düzenlenerek halkın hizmetine sunulmuştur. İçerisinde gölet, doğal yürüyüş yolları, kamelyalar ve oturma bankları, futbol ve basketbol alanları, seyir terasları, mescit, enformasyon binası, otopark ve su çeşmeleri bulunmaktadır.",
+    "category":"mesire"
+},
+{
+    "id":15,
+    "name":"Akyokuş Tabiat Parkı",
+    "img":"/img/ay1.jpg",
+    "detail":"Konya Akyokuş'ta günübirlik piknik yapıp gezebileceğiniz, doğa ile iç içe vakit geçirebileceğiniz harika bir doğal mekandır.",
+    "category":"mesire"
+},
+{
+    "id":16,
+    "name":"Kozağaç Parkı",
+    "img":"/img/kozagac.jpg",
+    "detail":"104.000 m² alanda, 6950 adet bitki, gölet, fitness spor alanı, basketbol ve mini futbol sahası, yürüyüş yolları, mangallık, kamelya ve oturma bankları, kafeterya, çocuk oyun alanları ve lunapark, tatlı su çeşmeleri ve şelalesiyle Kozağaç Parkı muhteşem bir piknik alanıdır.",
+    "category":"mesire"
+},
+{
+    "id":17,
+    "name":"Karaaslan Hadimi Parkı",
+    "img":"/img/hadimi.jpg",
+    "detail":"186 bin m² alanı ile Konya’nın en büyük parkı olan Karaaslan Hadimi Parkı Yaylapınar Mahallesi’nde yer alıyor. 128 bin m² yeşil alan ve Türkiye’de ilk kez bir parkta 15 bin m²’lik meyve bahçesi ile dikkatleri üzerine çekiyor.",
+    "category":"mesire"
+},
+{
+    "id":18,
+    "name":"Seksenbinde Devri Alem Parkı",
+    "img":"/img/park1.jpg",
+    "detail":"Türkiye’de bir ilk olma özelliği taşıyan 80 Binde Devri Alem Parkı bünyesinde üç farklı konsept bulunduruyor. Sesli ve hareketli dinozorlarıyla T-Rex Parkı, Tarihi Türk İslam coğrafyasından 120 adet mimari eserin minyatürleriyle Cihan-ı Türk Parkı, birçok masal kahramınının heykelleri ile Pamuk Şekeri Parkı, bu parkın bünyesinde yer alır.",
+    "category":"park"
+},
+{
+    "id":19,
+    "name":"Evliya Çelebi Parkı",
+    "img":"/img/evliya.jpg",
+    "detail":"25 bin metrekarelik bir alanda eski başkanlık konutunun bahçesinin de dahil olduğu Evliya Çelebi Parkı, yürüyüş yolları, gezinti alanları, kafeteryası, çocuk oyun alanları, açık spor alanları, kamelyaları ve süs havuzları ile muhteşem bir dinlenme alanıdır.",
+    "category":"park"
+},
+{
+    "id":20,
+    "name":"Meram Yenice Parkı",
+    "img":"/img/yenice.jpg",
+    "detail":"10 bin 500 metrekarelik bir alanda bulunan Meram Yenice Parkı içerisinde, 530 metrekare kafe, oyun grupları, kamelyaları, kay kay pisti, yürüyüş yolu, spor aletleri, süs havuzları, dağ bisikleti parkuru ve Konya’da ilk defa uygulanan pergola salıncağı ile yeni bir nefes alanıdır.",
+    "category":"park"
+},
+{
+    "id":21,
+    "name":"Şehit Erol Olçok Parkı",
+    "img":"/img/sivasli.jpg",
+    "detail":"10 bin metrekarelik alanı kapsayan ve kameriyeler, süs havuzları, yürüyüş alanları, çocuk oyun alanları, basketbol sahası ile Sivaslı Ali Kemal Parkı, Meramın güzel parklarındandır.",
+    "category":"park"
+}
+
+
+]
